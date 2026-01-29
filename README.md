@@ -4,14 +4,9 @@
 
 ![Event Stream Banner](./docs/images/banner.png)
 
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-blue.svg)](LICENSE)
-[![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-blue)](https://www.postgresql.org/)
-[![Redis](https://img.shields.io/badge/Redis-6%2B-red)](https://redis.io/)
 
 High-throughput, low-latency event streaming and processing platform for capturing, transmitting, processing, and analyzing continuous streams of events in real time.
 
-[Features](#-features) • [Getting Started](#-getting-started) • [Documentation](#-api-documentation) • [Contributing](#-contributing)
 
 </div>
 
@@ -179,19 +174,6 @@ docker-compose up -d
 npm run dev
 ```
 
-## 📝 API Documentation
-
-See [API Documentation](docs/api-documentation.md) for detailed API endpoints.
-
-## 🔒 Security
-
-See [Security Documentation](docs/security.md) for security best practices.
-
-## 📄 License
-
-This project is proprietary software - see the [LICENSE](LICENSE) file for details.
-
-Created by Dhruv Tripathi. All rights reserved. No contributions accepted.
 
 ---
 
@@ -203,7 +185,6 @@ Created by Dhruv Tripathi. All rights reserved. No contributions accepted.
 
 <div align="center">
 
-**[⬆ back to top](#event-stream)**
 
 Created by Dhruv Tripathi
 
